@@ -1,5 +1,5 @@
 #Discord Bot Commands
-##Some simple commands created for discord bots in python.
+###Some simple commands created for discord bots in python.
 
 All command prefixes are using **.** to change this simply swap out **.** with for example **!** in 
 
